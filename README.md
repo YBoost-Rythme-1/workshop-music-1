@@ -3,7 +3,7 @@ YBoost workshop #1 | 12/10/2022
 
 # Bot discord
 
-## Objectif
+## Objective
 
 You have to create a discord bot that will be able to :  
 * play music 
