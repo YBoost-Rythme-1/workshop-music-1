@@ -9,7 +9,8 @@ You have to create a discord bot that will be able to :
 * play music 
 * Play a playlist of music 
 * Stop the music
-* Play a random music from a key word
+* Play a random music from a key word 
+* Create an internal playlist in a server
 
 ## Notion 
 * [Golang documentation : Flag](https://pkg.go.dev/flag)
