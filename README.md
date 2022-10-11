@@ -25,7 +25,7 @@ You can create a discord server and invite your friends to it. You can also crea
 If you don't have a discord account, you can create one [here](https://discord.com/register).
 Then, you had to enable the developer mode in your discord settings. You can follow [this](https://beebom.com/how-enable-disable-developer-mode-discord/) tutorial to do it.
 
-## Step 1 : Create a bot
+## Step 1 : Create a bot 
 To create a bot, you have to go to the [discord developer portal](https://discord.com/developers/applications) and create a new application.  
 Then, you have to go to the bot tab and create a new bot.
 
