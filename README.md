@@ -40,3 +40,10 @@ Here is the github of the package : [discordgo](https://github.com/bwmarrin/disc
 
 You can follow this [tutorial](https://dev.to/aurelievache/learning-go-by-examples-part-4-create-a-bot-for-discord-in-go-43cf) to make your bot
 
+## ORGANISATION PROPOSITION 
+
+Dev 1 (easy) : play, pause, stop a music or a playlist
+Dev 2 (medium -) : create a daily recommandation song which has never been offered during this daily and has a release date of less than a month
+Dev 3 (medium -) : play, pause, stop a random music from a key word
+Dev 4 (medium -) : create an internal playlist in a server and play it
+Dev 5 (medium +) : create user's stats (count songs played, type of songs (rap, jazz, rock...), duration of listening...) 
